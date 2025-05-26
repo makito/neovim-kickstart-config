@@ -4,8 +4,7 @@ return {
   dependencies = {
     'nvim-lua/plenary.nvim',
     'nvim-tree/nvim-web-devicons',
-    'MunifTanjim/nui.nvim',
-    '3rd/image.nvim', -- Optional image support in preview window: See `# Preview Mode` for more information
+    'MunifTanjim/nui.nvim'
     {
       's1n7ax/nvim-window-picker',
       version = '2.*',
